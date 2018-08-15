@@ -25,7 +25,7 @@
 <h1></h1>
 
 <h4><u>Step 4:</u></h4>
-<h4>Now add /UpdateCategory/<your desired category name> to http://localhost:3000 </h4>
+<h4>Now add /UpdateCategory//*your desired category name*/ to http://localhost:3000 </h4>
 <h4>Example:</h4>
 <pre>http:/localhost:3000/updateCategory/tv_video_accessories </pre>
 <h4>All the products along with its details available in that category will be stored in the "productsfeed" table in your mysql database</h4>
